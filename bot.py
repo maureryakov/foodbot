@@ -8,10 +8,10 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram.utils import executor
 
 # Установка токена телеграм-бота
-BOT_TOKEN = '2102525803:AAG8jb3_w3J5V30gpe0-AOzdtUgUv9sC9-Q'
+BOT_TOKEN = '2102525803:AAG8jb3_w3J+++++++++++++++++++++++++'
 
 # Установка токена OpenAI
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = 'sk-aP1CnWG5hGMrDH2XQWLPT3Bl_____________________-'
 
 # Настройка логгирования
 logging.basicConfig(level=logging.INFO)
